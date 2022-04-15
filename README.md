@@ -1,6 +1,8 @@
 # Crypted Chat
 Simple encrypted chat
 
+To compile, you need the OpenSSL library
+
 # Usage:
   CryptedChat -s(--server) <ip> => Start crypted chat at server mode at default port: 8888
   
